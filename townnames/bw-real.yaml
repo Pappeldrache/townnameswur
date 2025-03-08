@@ -1,0 +1,365 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Aach
+    probability: 3
+  - name: Aalen
+    probability: 6
+  - name: Abstatt
+    probability: 1
+  - name: Abtsgmünd
+    probability: 1
+  - name: Achberg
+    probability: 1
+  - name: Achern
+    probability: 3
+  - name: Achstetten
+    probability: 1
+  - name: Adelberg
+    probability: 1
+  - name: Adelmannsfelden
+    probability: 1
+  - name: Adelsheim
+    probability: 3
+  - name: Affalterbach
+    probability: 1
+  - name: Aglasterhausen
+    probability: 1
+  - name: Ahorn
+    probability: 1
+  - name: Aichelberg
+    probability: 1
+  - name: Aichhalden
+    probability: 1
+  - name: Aichstetten
+    probability: 1
+  - name: Aichtal
+    probability: 3
+  - name: Aichwald
+    probability: 1
+  - name: Aidlingen
+    probability: 1
+  - name: Aitern
+    probability: 1
+  - name: Aitrach
+    probability: 1
+  - name: Albbruck
+    probability: 1
+  - name: Albershausen
+    probability: 1
+  - name: Albstadt
+    probability: 3
+  - name: Aldingen
+    probability: 1
+  - name: Alfdorf
+    probability: 1
+  - name: Allensbach
+    probability: 1
+  - name: Alleshausen
+    probability: 1
+  - name: Allmannsweiler
+    probability: 1
+  - name: Allmendingen
+    probability: 1
+  - name: Allmersbach im Tal
+    probability: 1
+  - name: Alpirsbach
+    probability: 3
+  - name: Altbach
+    probability: 1
+  - name: Altdorf bei Böblingen
+    probability: 1
+  - name: Altdorf bei Esslingen
+    probability: 1
+  - name: Altenriet
+    probability: 1
+  - name: Altensteig
+    probability: 1
+  - name: Altheim auf der Alb
+    probability: 1
+  - name: Altheim bei Ehingen
+    probability: 1
+  - name: Altheim bei Biberach
+    probability: 1
+  - name: Althengstett
+    probability: 1
+  - name: Althütte
+    probability: 1
+  - name: Altlußheim
+    probability: 1
+  - name: Altshausen
+    probability: 1
+  - name: Ammerbuch
+    probability: 1
+  - name: Amstetten
+    probability: 1
+  - name: Amtzell
+    probability: 1
+  - name: Angelbachtal
+    probability: 1
+  - name: Appenweier
+    probability: 1
+  - name: Argenbühl
+    probability: 1
+  - name: Aspach
+    probability: 1
+  - name: Asperg
+    probability: 3
+  - name: Assamstadt
+    probability: 1
+  - name: Asselfingen
+    probability: 1
+  - name: Attenweiler
+    probability: 1
+  - name: Au im Breisgau
+    probability: 1
+  - name: Au am Rhein
+    probability: 1
+  - name: Auenwald
+    probability: 1
+  - name: Auggen
+    probability: 1
+  - name: Aulendorf
+    probability: 3
+  - name: Backnang
+    probability: 6
+  - name: Bad Bellingen
+    probability: 1
+  - name: Bad Boll
+    probability: 1
+  - name: Bad Buchau
+    probability: 3
+  - name: Bad Ditzenbach
+    probability: 1
+  - name: Bad Dürrheim
+    probability: 3
+  - name: Baden-Baden
+    probability: 3
+  - name: Badenweiler
+    probability: 1
+  - name: Bad Friedrichshall
+    probability: 3
+  - name: Bad Herrenalb
+    probability: 3
+  - name: Bad Krozingen
+    probability: 3
+  - name: Bad Liebenzell
+    probability: 3
+  - name: Bad Mergentheim
+    probability: 3
+  - name: Bad Peterstal-Griesbach
+    probability: 1
+  - name: Bad Rappenau
+    probability: 3
+  - name: Bad Rippoldsau-Schapbach
+    probability: 1
+  - name: Bad Säckingen
+    probability: 3
+  - name: Bad Saulgau
+    probability: 3
+  - name: Bad Schönborn
+    probability: 1
+  - name: Bad Schussenried
+    probability: 3
+  - name: Bad Teinach-Zavelstein
+    probability: 3
+  - name: Bad Überkingen
+    probability: 1
+  - name: Bad Urach
+    probability: 3
+  - name: Bad Waldsee
+    probability: 3
+  - name: Bad Wildbad
+    probability: 3
+  - name: Bad Wimpfen
+    probability: 3
+  - name: Bad Wurzach
+    probability: 3
+  - name: Bahlingen am Kaiserstuhl
+    probability: 1
+  - name: Baienfurt
+    probability: 1
+  - name: Baiersbronn
+    probability: 1
+  - name: Baindt
+    probability: 1
+  - name: Balgheim
+    probability: 1
+  - name: Balingen
+    probability: 6
+  - name: Ballendorf
+    probability: 1
+  - name: Ballrechten-Dottingen
+    probability: 1
+  - name: Baltmannsweiler
+    probability: 1
+  - name: Balzheim
+    probability: 1
+  - name: Bammental
+    probability: 1
+  - name: Bärenthal
+    probability: 1
+  - name: Bartholomä
+    probability: 1
+  - name: Beilstein
+    probability: 3
+  - name: Beimerstetten
+    probability: 1
+  - name: Bempflingen
+    probability: 1
+  - name: Benningen am Neckar
+    probability: 1
+  - name: Berg
+    probability: 1
+  - name: Bergatreute
+    probability: 1
+  - name: Berghaupten
+    probability: 1
+  - name: Berghülen
+    probability: 1
+  - name: Berglen
+    probability: 1
+  - name: Berkheim
+    probability: 1
+  - name: Bermatingen
+    probability: 1
+  - name: Bernau im Schwarzwald
+    probability: 1
+  - name: Bernstadt
+    probability: 1
+  - name: Besigheim
+    probability: 3
+  - name: Betzenweiler
+    probability: 1
+  - name: Beuren
+    probability: 1
+  - name: Beuron
+    probability: 1
+  - name: Biberach in Baden
+    probability: 1
+  - name: Biberach an der Riß
+    probability: 6
+  - name: Biederbach
+    probability: 1
+  - name: Bietigheim in Baden
+    probability: 1
+  - name: Bietigheim-Bissingen
+    probability: 6
+  - name: Billigheim
+    probability: 1
+  - name: Binau
+    probability: 1
+  - name: Bingen
+    probability: 1
+  - name: Binzen
+    probability: 1
+  - name: Birenbach
+    probability: 1
+  - name: Birkenfeld
+    probability: 1
+  - name: Bischweier
+    probability: 1
+  - name: Bisingen
+    probability: 1
+  - name: Bissingen an der Teck
+    probability: 1
+  - name: Bitz
+    probability: 1
+  - name: Blaubeuren
+    probability: 3
+  - name: Blaufelden
+    probability: 1
+  - name: Blaustein
+    probability: 3
+  - name: Blumberg
+    probability: 2
+  - name: Böbingen an der Rems
+    probability: 1
+  - name: Böblingen
+    probability: 6
+  - name: Bodelshausen
+    probability: 1
+  - name: Bodman-Ludwigshafen
+    probability: 1
+  - name: Bodnegg
+    probability: 1
+  - name: Böhmenkirch
+    probability: 1
+  - name: Böllen
+    probability: 1
+  - name: Bollschweil
+    probability: 1
+  - name: Boms
+    probability: 1
+  - name: Bondorf
+    probability: 1
+  - name: Bonndorf im Schwarzwald
+    probability: 3
+  - name: Bönnigheim
+    probability: 3
+  - name: Bopfingen
+    probability: 3
+  - name: Börslingen
+    probability: 1
+  - name: Börtlingen
+    probability: 1
+  - name: Bösingen
+    probability: 1
+  - name: Böttingen
+    probability: 1
+  - name: Bötzingen
+    probability: 1
+  - name: Boxberg
+    probability: 2
+  - name: Brackenheim
+    probability: 2
+  - name: Bräunlingen
+    probability: 2
+  - name: Braunsbach
+    probability: 1
+  - name: Breisach am Rhein
+    probability: 3
+  - name: Breitingen
+    probability: 1
+  - name: Breitnau
+    probability: 1
+  - name: Bretten
+    probability: 3
+  - name: Bretzfeld
+    probability: 1
+  - name: Brigachtal
+    probability: 1
+  - name: Bruchsal
+    probability: 6
+  - name: Brühl
+    probability: 1
+  - name: Bubsheim
+    probability: 1
+  - name: Buchen im Odenwald
+    probability: 3
+  - name: Buchenbach
+    probability: 1
+  - name: Buchheim
+    probability: 1
+  - name: Buggingen
+    probability: 1
+  - name: Bühl
+    probability: 3
+  - name: Bühlertal
+    probability: 1
+  - name: Bühlertann
+    probability: 1
+  - name: Bühlerzell
+    probability: 1
+  - name: Burgrieden
+    probability: 1
+  - name: Burgstetten
+    probability: 1
+  - name: Burladingen
+    probability: 3
+  - name: Büsingen am Hochrhein
+    probability: 1
+name: BW (Real)
+source: https://de.wikipedia.org/wiki/Liste_der_St%C3%A4dte_und_Gemeinden_in_Baden-W%C3%BCrttemberg
+subsets: []
